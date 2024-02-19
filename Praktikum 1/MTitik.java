@@ -1,4 +1,4 @@
-public class Main {
+public class MTitik {
     static double counter;
     public static void main(String[] args) {
         Titik t1 = new Titik(1, 2);
